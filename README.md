@@ -1,5 +1,6 @@
+<center>
 <img src="cursed-yo-mama.gif" alt="GitHub Logo" width="300" height="200" />
-
+</center>
 ### Hi there, I'm [George](https://github.com/gruge)!
 
 Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development. I am a junior software developer three years into the four year course. My technology stack involves Javascript, MySQL, Python, PHP, C#, and, HTML/CSS/Bootstrap. Besides programming, I have a general interest in things that work, complicated things such as machinery, craftsmanship, or code.
