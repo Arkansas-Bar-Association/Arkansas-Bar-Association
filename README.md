@@ -1,4 +1,4 @@
-### Hi there, I'm [George](https://github.com/gruge)! ༼ つ ◕_◕ ༽つ
+### Hi there, I'm [George](https://github.com/gruge)!
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
