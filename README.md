@@ -1,4 +1,4 @@
-<img src=".gif" alt="GitHub Logo" width="300" height="200" />
+<img src="cursed-yo-mama.gif" alt="GitHub Logo" width="300" height="200" />
 
 ### Hi there, I'm [George](https://github.com/gruge)!
 
