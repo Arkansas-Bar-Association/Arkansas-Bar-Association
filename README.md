@@ -2,8 +2,6 @@
 
 Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development. I am a junior software developer three years into the four year course. My technology stack involves Javascript, MySQL, Python, PHP, C#, and, HTML/CSS/Bootstrap. Besides programming, I have a general interest in things that work, things such as machinery, craftsmanship, or code.
 
-- 🔭 I’m currently working on a private app, based on an alarm
-- 💬 Send me funny images, i will appreciate them but i will never respond
 - 📫 How to reach me: georgi.jefimov@tptlive.ee
 - 📝 [Resume](to be added)
 
