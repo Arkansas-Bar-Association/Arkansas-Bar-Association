@@ -1,4 +1,4 @@
-### Hi there, I'm [George](https://github.com/gruge)!
+### Hi there, I'm [George](https://github.com/Pollnareff)!
 
 Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development. I am a junior software developer three years into the four year course. My technology stack involves Java, Javascript, MySQL, MongoDB, React.js, Vue.js, maven, Python, PHP, C#, and HTML/CSS/Bootstrap. I also have experience with UI/UX tools such as adobe XD and Figma, on top of having experience with raster graphics editor tools such as Photoshop.
 ### Languages I've tried
