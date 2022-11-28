@@ -33,7 +33,7 @@ Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic Scho
 
 <!-- ### Full Stack Projects -->
 
-![George's Github Stats](https://github-readme-stats.vercel.app/api?username=gruge&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruge&theme=radical)](https://github.com/gruge/github-readme-stats)
+![George's Github Stats](https://github-readme-stats.vercel.app/api?username=Pollnareff&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollnareff&theme=radical)](https://github.com/Pollnareff/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gruge.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pollnareff.rusty-sj)
