@@ -1,4 +1,4 @@
-### Hi there, I'm [George](https://github.com/Pollnareff)!
+### Hi there, I'm [George](https://github.com/Pollnarev)!
 
 Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development. I am a junior software developer three years into the four year course. My technology stack involves Java, Javascript, MySQL, MongoDB, React.js, Vue.js, maven, Python, PHP, C#, and HTML/CSS/Bootstrap. I also have experience with UI/UX tools such as adobe XD and Figma, on top of having experience with raster graphics editor tools such as Gimp.
 ### Languages I've tried
@@ -30,7 +30,7 @@ Hello, my name is Georgi Jefimov and I am a student at [Tallinn Polytechnic Scho
 
 <!-- ### Full Stack Projects -->
 
-![George's Github Stats](https://github-readme-stats.vercel.app/api?username=Pollnareff&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollnareff&theme=radical)](https://github.com/Pollnareff/github-readme-stats)
+![George's Github Stats](https://github-readme-stats.vercel.app/api?username=Pollnarev&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollnarev&theme=radical)](https://github.com/Pollnarev/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pollnareff.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pollnarev.rusty-sj)
