@@ -32,4 +32,3 @@
 ![George's Github Stats](https://github-readme-stats.vercel.app/api?username=Pollnarev&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollnarev&theme=radical)](https://github.com/Pollnarev/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pollnarev.rusty-sj)
