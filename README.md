@@ -1,4 +1,4 @@
-### Hi there, I'm [George](https://github.com/Pollnarev)!
+
 
 
 
