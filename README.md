@@ -26,9 +26,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-000?logo=visualstudiocode)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000?logo=androidstudio&logoColor=whitesmoke)
-
-<!-- ### Full Stack Projects -->
-
-![George's Github Stats](https://github-readme-stats.vercel.app/api?username=Arkansas-Bar-Association&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkansas-Bar-Association&theme=radical)](https://github.com/Pollnarev/github-readme-stats)
-
